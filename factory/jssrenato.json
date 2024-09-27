@@ -1,0 +1,9 @@
+{
+	"name": "jssrenato",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b4a7b8ca-f387-486a-86a1-d424c8b2ee67",
+		"tenantId": "ab461d88-7195-4886-810e-a139c174db5d"
+	}
+}
