@@ -1,0 +1,7 @@
+{
+	"name": "ingests_capa_bronce_plata",
+	"properties": {
+		"description": "Ingesta de datos desde la capa bronce a la capa plata",
+		"annotations": []
+	}
+}
