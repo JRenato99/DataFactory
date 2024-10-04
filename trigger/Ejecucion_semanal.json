@@ -1,7 +1,7 @@
 {
-	"name": "Ejecucion semanal1",
+	"name": "Ejecucion_semanal",
 	"properties": {
-		"description": "ejecucion automatica del primer pipeline\n",
+		"description": "ejecucion automatica del primer pipeline a desencadenar otras\n",
 		"annotations": [],
 		"runtimeState": "Started",
 		"pipelines": [
